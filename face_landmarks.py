@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-@author: abhilash
+@author: mayank
 """
 
 import face_recognition
