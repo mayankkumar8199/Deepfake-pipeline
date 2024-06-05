@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 
-@author: abhi
+@author: mayank
 """
 
 # install opencv-contrib using the command
